@@ -1,2 +1,2 @@
-# finding_donors_dsnd
+# Finding Donors for CharityML
 Supervised Learning | Python
